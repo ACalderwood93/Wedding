@@ -1,0 +1,11 @@
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\bin\Debug\netcoreapp2.0\Wedding.deps.json
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\bin\Debug\netcoreapp2.0\Wedding.runtimeconfig.json
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\bin\Debug\netcoreapp2.0\Wedding.runtimeconfig.dev.json
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\bin\Debug\netcoreapp2.0\Wedding.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\bin\Debug\netcoreapp2.0\Wedding.pdb
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\obj\Debug\netcoreapp2.0\Wedding.csprojResolveAssemblyReference.cache
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\obj\Debug\netcoreapp2.0\Wedding.csproj.CoreCompileInputs.cache
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\obj\Debug\netcoreapp2.0\Wedding.AssemblyInfoInputs.cache
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\obj\Debug\netcoreapp2.0\Wedding.AssemblyInfo.cs
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\obj\Debug\netcoreapp2.0\Wedding.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Source\Repos\Wedding\Wedding\obj\Debug\netcoreapp2.0\Wedding.pdb
